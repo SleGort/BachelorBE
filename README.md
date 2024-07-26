@@ -1,2 +1,4 @@
-# BachelorBE
-Econometrics Assignment and Bachelor paper
+# Bachelor Business Economics
+
+This repository houses the projects completed during my Bachelor's degree in Business Economics.
+It includes the PDF reports for my bachelor thesis, as well as the reports and code for my econometrics coursework.
